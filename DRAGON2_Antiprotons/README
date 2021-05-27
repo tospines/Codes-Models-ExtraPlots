@@ -1,6 +1,6 @@
 Direct inputs and outputs from the DRAGON2 runs with the propagation parameters obtained from the combined and Standard analyses obtained in ...
 
-Here you can find the inputs (.xml and .source.param files) to pass to the DRAGON2 (customized) code - https://github.com/tospines/Customised-DRAGON2_beta - as well as the jupyter notebook code to make the plots of protons, helium and antiprotons. 
+Here you can find the inputs (.xml and .source.param files) to pass to the DRAGON2 (customized) code - https://github.com/tospines/Customised-DRAGON2_beta - as well as the jupyter notebook code to make the plots of protons, helium and antiprotons. The employed datasets (extracted from https://tools.ssdc.asi.it/CosmicRays/) are also available in this repository. Just change the file paths.
 The rest of nuclei can be obtained in the same way as in https://github.com/tospines/Analyses-and-plotting-codes/tree/main/CR_spectra-Plots
 
 For more details, please email to pedro.delatorreluque@fysik.su.se
