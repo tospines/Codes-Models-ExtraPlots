@@ -1,2 +1,8 @@
 In this folder we provide routines and detailed information related to the computation of anisotropic propagation of electrons around a Geminga-like pulsar.
-It contains three sample codes (jpnb) for different solution methods (Forward Euler, Operator Splitting and Peachman-Rachford) of the anisotropic diffussion equation.
+It contains three sample codes (jpnb) for different solution methods (Forward Euler, Operator Splitting and Peachman-Rachford) of the 2D anisotropic diffussion equation.
+
+The technical information is contained in the "Numerical_Solution_Differential_equations.pdf" file.
+
+In addition, a rutine with a faster algorithm solving the isotropic diffusion equation for leptons around a source is included, where the calculation of the IC gamma-ray emission and L.O.S. integral are detailed.
+
+These routines have been used in the development of the manuscript: https://arxiv.org/abs/2205.08544. 
