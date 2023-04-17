@@ -1,1 +1,9 @@
-...
+Contents related to the publication ....
+
+In this repository we provide, in the form of fits files, the spectra of electrons, positrons, H and He at Earth in the models where the pulsar wind nebulae injection of positrons and electrons is parametrized as a single power-law (run_3D-Fluka_BCPositrons_Sigma0.5_H4kpc-JF12_spectrum.fits.gz) and as a broken power-law (run_3D-Fluka_BCPositrons_Sigma0.5_spectrum.fits.gz).
+These files can be read as specified in the https://github.com/tospines/Analyses-and-plotting-codes/tree/main/CR_spectra-Plots/Plotting_General_Spectra.ipynb file (also in e.g. https://github.com/tospines/ISAPP-school-2021_HandsOn-DRAGON2/blob/main/plotting_output-Routines/Electrons_positrons.ipynb). 
+The full Galaxy maps with the distribution of these particles are available upon request.
+
+We also provide here an example of the xml and source.param input files needed by DRAGON to compute the secondary spectra of these particles and the contribution from a dark matter particle at Earth. More information can also be found at https://github.com/tospines/Customised-DRAGON-versions/tree/main/Custom_DRAGON2_v2-Antinuclei.
+
+For any questions or requests, feel free to contact me directly.
