@@ -6,4 +6,5 @@ The full Galaxy maps with the distribution of these particles are available upon
 
 We also provide here an example of the xml and source.param input files needed by DRAGON to compute the secondary spectra of these particles and the contribution from a dark matter particle at Earth. More information can also be found at https://github.com/tospines/Customised-DRAGON-versions/tree/main/Custom_DRAGON2_v2-Antinuclei.
 Moreover, we include a plot showing the local HI emissivity spectrum predicted by our models compared to Fermi-LAT data (Casandjian Astrophys. J., 806(2):240, 2015). This observable allows us to adjust the contribution of low energy electrons (by means of a break below ~8 GeV in the injection of these particles) by means of the bremsstrahlung emission (see https://arxiv.org/pdf/2207.01553.pdf for more details). In this way, we constrain the low energy part of the electrons spectrum more precisely and this model can be used for studies of the background inverse-Compton emission at MeV energies or even for the study of the 511 KeV signal.
-For any questions or requests, feel free to contact me directly.
+
+For any questions or requests, feel free to contact me directly to my email.
