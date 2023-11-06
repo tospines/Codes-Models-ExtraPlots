@@ -1,1 +1,7 @@
-In this folder...
+In this folder, we show the result of a combined fit to the AMS-02 data of the ratios B/C, B/O, Be/C, Be/O, Li/C, Li/O, Be10/Be and 10Be/9Be without considering correlations in the errors of AMS-02. 
+The fitting procedure consists on the Markov-Chain Monte Carlo analysis used in  De la Torre Luque JCAP 11 (2021) 018, [2107.06863] and first presented in De la Torre Luque et al., JCAP 07 (2021) 010, [2102.13238].
+We are considering here that the morphology of the Galaxy follows the 4-arm model of Steimann et al. -- . Y. Steiman-Cameron, M. Wolfire, and D. Hollenbach, The Astrophysical Journal 722, 1460252 (2010) --, which shapes the gas and source distribution that we use in our simulation. 
+
+The xml and source.param file are the input files provided to DRAGON to produce the simulations and the results (spectra of the particles) at Earth poisiton are given in the _spectrum.fit.gz file. The map of the electron distribution the Galaxy can be provided upon request.
+
+For any doubt, please, contact pedro.delatorreluque@fysik.su.se
