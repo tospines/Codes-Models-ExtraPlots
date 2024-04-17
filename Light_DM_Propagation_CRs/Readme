@@ -4,4 +4,4 @@ We are considering here that the morphology of the Galaxy follows the 4-arm mode
 
 The xml and source.param file are the input files provided to DRAGON to produce the simulations and the results (spectra of the particles) at Earth poisiton are given in the _spectrum.fit.gz file. The map of the electron distribution the Galaxy can be provided upon request.
 
-For any doubt, please, contact pedro.delatorreluque@fysik.su.se
+For any doubt, please, contact pedro.delatorre@uam.es
