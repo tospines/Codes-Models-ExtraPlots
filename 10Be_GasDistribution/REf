@@ -1,1 +1,4 @@
+In this folder, we provide examples of input files in DRAGON for different variations of the spiral arm distribution. We show examples of the implementation of the Steiman-Cameron 4-arm model (https://dx.doi.org/10.1088/0004-637X/722/2/1460) and the Wainscoat model (https://ui.adsabs.harvard.edu/abs/1992ApJS...83..111W), and for different values of the arm width.
+In addition, we include output files which differ in the cross sections for spallation used. Finally, comparison of our fits to the data are shown as png images.
 
+For any question or request, contact pedro.delatorre@uam.es
